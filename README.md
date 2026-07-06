@@ -20,8 +20,7 @@ Languages: Darija, Arabic, French, English.
 A behavioral subtext layer and "Behavioral ISA" for conversational AI. Building architecture that captures tonal detection, interruption handling, and conversational intuition (Saturated Tacit Embeddings) so AI actually notices when it's talking past you. 
 
 📦 **Cobo**
-Desk-mounted edge-compute focus tracker with a haptic companion device (3D assets modeled in Blender). Designed as a "behavioral sentinel" for deep work and pitched at the Shark Tank of Wellness Global Student Competition.
-
+Desk-mounted hardware behavioral intervention device and haptic companion (3D assets modeled in Blender). Pitched at the Shark Tank of Wellness Global Student Competition as enterprise-level stress prevention infrastructure. Built for cognitive preservation, it utilizes privacy-first, event-based sensing to predictively track the physical precursors to distraction without relying on traditional camera recording. Watch the pitch
 <br/>
 
 ## Stack
