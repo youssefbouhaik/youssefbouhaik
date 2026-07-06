@@ -9,7 +9,7 @@
 ## About me
 MSc International Management, University of Bologna (final semester). I am self-taught in systems architecture, AI infrastructure, C, Python, and Verilog/HDL because I prefer an engineering-first approach to building. Recently accepted into the Idealab Booster pre-accelerator in Milan.
 
-Long-term goals: build an IC design and semiconductor ecosystem in North Africa, and eventually tackle extreme exposure transit like the Mauritania Iron Ore Train and a Mount Kilimanjaro ascent. 
+Long-term goals: build an IC design and semiconductor ecosystem in North Africa.
 Languages: Darija, Arabic, French, English.
 
 <br/>
