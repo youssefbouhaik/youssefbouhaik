@@ -1,7 +1,7 @@
-[<div align="center"> 
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5f8a&height=200&section=header&text=Youssef%20Bouhaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20infrastructure%20%2B%20chasing%20a%20semiconductor%20ecosystem%20for%20North%20Africa&descAlignY=55&descSize=16" width="100%"/>
   <a href="https://0-lookback.com"><img src="https://img.shields.io/badge/0--lookback.com-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/youssef-b-861392355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <img src="https://komarev.com/ghpvc/?username=youssefbouhaik&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS" />
 </div> 
 <br/>
@@ -9,18 +9,21 @@
 ## About me
 MSc International Management, University of Bologna (final semester). I am self-taught in systems architecture, AI infrastructure, C, Python, and Verilog/HDL because I prefer an engineering-first approach to building. Recently accepted into the Idealab Booster pre-accelerator in Milan.
 
-Long-term goals: build an IC design and semiconductor ecosystem in North Africa.
+Long-term goals: build an IC design and semiconductor ecosystem in North Africa, and eventually tackle extreme exposure transit like the Mauritania Iron Ore Train and a Mount Kilimanjaro ascent. 
 Languages: Darija, Arabic, French, English.
 
 <br/>
 
 ## What I'm building
 
-🎯 **0-lookback** *(Solo Venture)*
+🎯 <a href="https://0-lookback.com" target="_blank"><strong>0-lookback</strong></a> *(Solo Venture)*
 A behavioral subtext layer and "Behavioral ISA" for conversational AI. Building architecture that captures tonal detection, interruption handling, and conversational intuition (Saturated Tacit Embeddings) so AI actually notices when it's talking past you. 
 
 📦 **Cobo**
-Desk-mounted hardware behavioral intervention device and haptic companion (3D assets modeled in Blender). Pitched at the Shark Tank of Wellness Global Student Competition as enterprise-level stress prevention infrastructure. Built for cognitive preservation, it utilizes privacy-first, event-based sensing to predictively track the physical precursors to distraction without relying on traditional camera recording. Watch the pitch
+Desk-mounted hardware behavioral intervention device and haptic companion (3D assets modeled in Blender). Pitched at the Shark Tank of Wellness Global Student Competition as enterprise-level stress prevention infrastructure. Built for cognitive preservation, it utilizes privacy-first, event-based sensing to predictively track the physical precursors to distraction without relying on traditional camera recording. 
+<br/>
+📺 <a href="https://www.youtube.com/watch?v=n0npD0emd2s" target="_blank"><strong>Watch the Shark Tank of Wellness pitch here</strong></a>
+
 <br/>
 
 ## Stack
@@ -49,4 +52,3 @@ Desk-mounted hardware behavioral intervention device and haptic companion (3D as
 Low-level systems and hardware architecture (TinyTapeout, Cerebras), institutional market microstructure & footprint charts, opinionated industrial design, or the business dynamics of luxury fragrance arbitrage.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5f8a,100:1e3a5f&height=100&section=footer" width="100%"/>
-](https://www.linkedin.com/in/youssef-b-861392355/)
