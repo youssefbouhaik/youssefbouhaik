@@ -1,6 +1,6 @@
-<div align="center"> 
+[<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5f8a&height=200&section=header&text=Youssef%20Bouhaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20infrastructure%20%2B%20chasing%20a%20semiconductor%20ecosystem%20for%20North%20Africa&descAlignY=55&descSize=16" width="100%"/>
-  <a href="https://0-lockback.com"><img src="https://img.shields.io/badge/0--lockback.com-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+  <a href="https://0-lookback.com"><img src="https://img.shields.io/badge/0--lookback.com-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <img src="https://komarev.com/ghpvc/?username=youssefbouhaik&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS" />
 </div> 
@@ -16,7 +16,7 @@ Languages: Darija, Arabic, French, English.
 
 ## What I'm building
 
-🎯 **0-Lockback** *(Solo Venture)*
+🎯 **0-lookback** *(Solo Venture)*
 A behavioral subtext layer and "Behavioral ISA" for conversational AI. Building architecture that captures tonal detection, interruption handling, and conversational intuition (Saturated Tacit Embeddings) so AI actually notices when it's talking past you. 
 
 📦 **Cobo**
@@ -49,3 +49,4 @@ Desk-mounted hardware behavioral intervention device and haptic companion (3D as
 Low-level systems and hardware architecture (TinyTapeout, Cerebras), institutional market microstructure & footprint charts, opinionated industrial design, or the business dynamics of luxury fragrance arbitrage.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5f8a,100:1e3a5f&height=100&section=footer" width="100%"/>
+](https://www.linkedin.com/in/youssef-b-861392355/)
