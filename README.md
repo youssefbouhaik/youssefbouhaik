@@ -1,24 +1,16 @@
 <div align="center"> 
-
   <a href="https://www.linkedin.com/in/youssef-b-861392355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <img src="https://komarev.com/ghpvc/?username=youssefbouhaik&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS" />
 </div> 
 <br/>
-
 ## About me
-MSc International Management, University of Bologna (final semester). I am self-taught in systems architecture, AI infrastructure, C, Python, and Verilog/HDL because I prefer an engineering-first approach to building. Recently accepted into the Idealab Booster pre-accelerator in Milan.
-
+I am an International Management student at University of Bologna (final semester). Through this masters degrees I found an unwavering passion for prject based learning, in projects realted to Computer science. I am self-taught in Python(still learning). I am trying to carve my way up the computer science hierarchy. my rue found passion is with LLMs and artificial inteligence, and the ablility to convert all tacit knowledge into exprobale repositories of skill, so we can skill up, and help machines learn tacit knowedge. 
 <br/>
 
 
 ## Stack
 <div align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Verilog-0C4B33?style=flat-square&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-A22846?style=flat-square&logo=arduino&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/IC_Design-333333?style=flat-square&logo=chip&logoColor=white" /> 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </div> 
 <br/>
@@ -33,7 +25,5 @@ MSc International Management, University of Bologna (final semester). I am self-
 </div> 
 <br/>
 
-## Ask me about
-Low-level systems and hardware architecture (TinyTapeout, Cerebras), institutional market microstructure & footprint charts, opinionated industrial design, or the business dynamics of luxury fragrance arbitrage.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5f8a,100:1e3a5f&height=100&section=footer" width="100%"/>
