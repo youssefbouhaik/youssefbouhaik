@@ -9,22 +9,8 @@
 ## About me
 MSc International Management, University of Bologna (final semester). I am self-taught in systems architecture, AI infrastructure, C, Python, and Verilog/HDL because I prefer an engineering-first approach to building. Recently accepted into the Idealab Booster pre-accelerator in Milan.
 
-Long-term goals: build an IC design and semiconductor ecosystem in North Africa, and eventually tackle extreme exposure transit like the Mauritania Iron Ore Train and a Mount Kilimanjaro ascent. 
-Languages: Darija, Arabic, French, English.
-
 <br/>
 
-## What I'm building
-
-🎯 <a href="https://0-lookback.com" target="_blank"><strong>0-lookback</strong></a> *(Solo Venture)*
-A behavioral subtext layer and "Behavioral ISA" for conversational AI. Building architecture that captures tonal detection, interruption handling, and conversational intuition (Saturated Tacit Embeddings) so AI actually notices when it's talking past you. 
-
-📦 **Cobo**
-Desk-mounted hardware behavioral intervention device and haptic companion (3D assets modeled in Blender). Pitched at the Shark Tank of Wellness Global Student Competition as enterprise-level stress prevention infrastructure. Built for cognitive preservation, it utilizes privacy-first, event-based sensing to predictively track the physical precursors to distraction without relying on traditional camera recording. 
-<br/>
-📺 <a href="https://www.youtube.com/watch?v=n0npD0emd2s" target="_blank"><strong>Watch the Shark Tank of Wellness pitch here</strong></a>
-
-<br/>
 
 ## Stack
 <div align="left"> 
