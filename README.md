@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=youssefbouhaik&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS" />
 </div> 
 <br/>
+
 ## About me
 I am an International Management student at University of Bologna (final semester). Through this masters degrees I found an unwavering passion for prject based learning, in projects realted to Computer science. I am self-taught in Python(still learning). I am trying to carve my way up the computer science hierarchy. my rue found passion is with LLMs and artificial inteligence, and the ablility to convert all tacit knowledge into exprobale repositories of skill, so we can skill up, and help machines learn tacit knowedge. 
 <br/>
@@ -10,8 +11,8 @@ I am an International Management student at University of Bologna (final semeste
 
 ## Stack
 <div align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </div> 
 <br/>
 
