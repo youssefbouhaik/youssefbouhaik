@@ -13,6 +13,8 @@ I am an International Management student at University of Bologna (final semeste
 <div align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+  ![English](https://shields.io)
+
 </div> 
 <br/>
 
