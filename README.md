@@ -5,7 +5,7 @@
 <br/>
 
 ## About me
-I am an International Management student at the University of Bologna (final semester). Through this master's degree, I found an unwavering passion for project-based learning in projects related to computer science. I am self-taught in Python (still learning). I am trying to carve my way up the computer science hierarchy. My true foundational passion is with LLMs and artificial intelligence, and the ability to convert all tacit knowledge into exportable repositories of skill, so we can skill up, and help machines learn tacit knowledge.
+I am an International Management student at the University of Bologna (final semester). Through this master's degree, I found an unwavering passion for project-based learning in projects related to computer science. I am self-taught in Python (still learning). I am trying to carve my way up the computer science hierarchy. My true found passion is with LLMs and artificial intelligence, and the ability to convert all tacit knowledge into exportable repositories of skill, so we can skill up, and help machines learn tacit knowledge.
 <br/>
 
 
