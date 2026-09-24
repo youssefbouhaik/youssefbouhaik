@@ -1,6 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5f8a&height=200&section=header&text=Youssef%20Bouhaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20infrastructure%20%2B%20chasing%20a%20semiconductor%20ecosystem%20for%20North%20Africa&descAlignY=55&descSize=16" width="100%"/>
-  <a href="https://0-lookback.com"><img src="https://img.shields.io/badge/0--lookback.com-1e3a5f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
+
   <a href="https://www.linkedin.com/in/youssef-b-861392355/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <img src="https://komarev.com/ghpvc/?username=youssefbouhaik&style=for-the-badge&color=1e3a5f&label=PROFILE+VIEWS" />
 </div> 
